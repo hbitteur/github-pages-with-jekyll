@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Ceci est le titre de mon blog
 
-I'm glad you are here. I plan to talk about ...
+Quelques lignes d'introduction.
+
+Pour mémoire:
+- index.md est régardé en premier
+- Sans index.md, README.md est utilisé
